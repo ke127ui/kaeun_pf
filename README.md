@@ -5,4 +5,4 @@
 * 작성 언어:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
 * 상세 페이지 확인
-    * <a href="https://hiro961227.github.io/kaeun_pf/" target="_blank">사이트 확인</a>
+    * <a href="https://ke127ui.github.io/kaeun_pf/" target="_blank">사이트 확인</a>
